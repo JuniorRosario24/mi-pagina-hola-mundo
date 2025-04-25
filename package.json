@@ -1,0 +1,25 @@
+{
+  "name": "mi-pagina-hola-mundo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuniorRosario24/mi-pagina-hola-mundo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/JuniorRosario24/mi-pagina-hola-mundo/issues"
+  },
+  "homepage": "https://github.com/JuniorRosario24/mi-pagina-hola-mundo#readme",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^11.1.0"
+  }
+}
